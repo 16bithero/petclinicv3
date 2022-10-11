@@ -2,7 +2,7 @@
     <parent>
         <artifactId>PetClinic</artifactId>
         <groupId>ca.gbc</groupId>
-        <version>0.0.2-SNAPSHOT</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>petclinic-web</artifactId>
@@ -12,7 +12,7 @@
         <dependency>
             <groupId>ca.gbc</groupId>
             <artifactId>petclinic-data</artifactId>
-            <version>0.0.2-SNAPSHOT</version>
+            <version>0.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

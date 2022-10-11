@@ -14,7 +14,7 @@
     </parent>
     <groupId>ca.gbc</groupId>
     <artifactId>PetClinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>PetClinic</name>
     <description>PetClinic</description>
     <properties>
@@ -53,6 +53,6 @@
     </dependencies>
     <scm>
         <developerConnection>scm:git:https://github.com/16bithero/petclinicv3.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>headv2</tag>
     </scm>
 </project>
